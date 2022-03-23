@@ -1,5 +1,5 @@
 # ratmoji-alphabet
-An alphanumeric COLRv0 font made from Twemoji's rat emoji, made using [nanoemoji](https://github.com/googlefonts/nanoemoji) 🐀🐀🐀
+I made an alphabet out of Twemoji's rat emoji, and then turned it into a font using [nanoemoji](https://github.com/googlefonts/nanoemoji) 🐀🐀🐀
 
 
 In the font folder, you can download a ttf file which should work in all modern browsers. 

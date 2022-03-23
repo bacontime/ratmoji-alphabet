@@ -64,3 +64,10 @@ An alphanumeric COLRv0 font made from Twemoji's rat emoji 🐀🐀🐀
 ![](LetterRasters/WeeRat/X.png)
 ![](LetterRasters/WeeRat/Y.png)
 ![](LetterRasters/WeeRat/Z.png)
+
+
+## License
+This project was made using graphics from [Twitter's Twemoji project](https://github.com/twitter/twemoji), licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+I release the derivative works in this repository under the same CC-BY 4.0 license.
+

@@ -6,6 +6,8 @@ In the font folder, you can download a ttf file which should work in all modern 
 (Support for color fonts in other applications is spotty.)
 The other folders contain the source files for the glyphs.
 
+[You can see the font in action by following this link.](https://bacontime.github.io/ratmoji-alphabet/)
+
 ## Glyph Previews
 
 ### Letters with Smaller Rat

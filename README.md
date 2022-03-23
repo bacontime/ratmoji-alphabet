@@ -5,8 +5,43 @@ This is still WIP. Come back soon.
 An alphanumeric COLRv0 font made from Twemoji's rat emoji 🐀🐀🐀
 
 
+In the font folder, you can download a ttf file which should work in all modern browsers. 
+(Support for color fonts in other applications is spotty.)
+The other folders contain the source files for the glyphs.
 
-## Letters with Big Rat
+## Glyph Previews
+
+### Letters with Smaller Rat
+    
+![](LetterRasters/WeeRat/A.png)
+![](LetterRasters/WeeRat/B.png)
+![](LetterRasters/WeeRat/C.png)
+![](LetterRasters/WeeRat/D.png)
+![](LetterRasters/WeeRat/E.png)
+![](LetterRasters/WeeRat/F.png)
+![](LetterRasters/WeeRat/G.png)
+![](LetterRasters/WeeRat/H.png)
+![](LetterRasters/WeeRat/I.png)
+![](LetterRasters/WeeRat/J.png)
+![](LetterRasters/WeeRat/K.png)
+![](LetterRasters/WeeRat/L.png)
+![](LetterRasters/WeeRat/M.png)
+![](LetterRasters/WeeRat/N.png)
+![](LetterRasters/WeeRat/O.png)
+![](LetterRasters/WeeRat/P.png)
+![](LetterRasters/WeeRat/Q.png)
+![](LetterRasters/WeeRat/R.png)
+![](LetterRasters/WeeRat/S.png)
+![](LetterRasters/WeeRat/T.png)
+![](LetterRasters/WeeRat/U.png)
+![](LetterRasters/WeeRat/V.png)
+![](LetterRasters/WeeRat/W.png)
+![](LetterRasters/WeeRat/X.png)
+![](LetterRasters/WeeRat/Y.png)
+![](LetterRasters/WeeRat/Z.png)
+
+
+### Letters with Big Rat
 
 ![](LetterRasters/BeegRat/A.png)
 ![](LetterRasters/BeegRat/B.png)
@@ -35,35 +70,6 @@ An alphanumeric COLRv0 font made from Twemoji's rat emoji 🐀🐀🐀
 ![](LetterRasters/BeegRat/Y.png)
 ![](LetterRasters/BeegRat/Z.png)
     
-
-## Letters with Smaller Rat
-    
-![](LetterRasters/WeeRat/A.png)
-![](LetterRasters/WeeRat/B.png)
-![](LetterRasters/WeeRat/C.png)
-![](LetterRasters/WeeRat/D.png)
-![](LetterRasters/WeeRat/E.png)
-![](LetterRasters/WeeRat/F.png)
-![](LetterRasters/WeeRat/G.png)
-![](LetterRasters/WeeRat/H.png)
-![](LetterRasters/WeeRat/I.png)
-![](LetterRasters/WeeRat/J.png)
-![](LetterRasters/WeeRat/K.png)
-![](LetterRasters/WeeRat/L.png)
-![](LetterRasters/WeeRat/M.png)
-![](LetterRasters/WeeRat/N.png)
-![](LetterRasters/WeeRat/O.png)
-![](LetterRasters/WeeRat/P.png)
-![](LetterRasters/WeeRat/Q.png)
-![](LetterRasters/WeeRat/R.png)
-![](LetterRasters/WeeRat/S.png)
-![](LetterRasters/WeeRat/T.png)
-![](LetterRasters/WeeRat/U.png)
-![](LetterRasters/WeeRat/V.png)
-![](LetterRasters/WeeRat/W.png)
-![](LetterRasters/WeeRat/X.png)
-![](LetterRasters/WeeRat/Y.png)
-![](LetterRasters/WeeRat/Z.png)
 
 
 ## License

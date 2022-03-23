@@ -17,7 +17,6 @@ The other folders in the repo contain the source files for the glyphs.
       }
       .rattest {
         font-family: 'rats';
-        font-size: 48px;
         padding: 0px;
       }
 </style>

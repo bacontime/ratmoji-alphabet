@@ -31,7 +31,9 @@ Jackdaws love my big sphinx of quartz.
 Pack my box with five dozen liquor jugs.
 </div>
 
+## Wow, what a a useable typeface!
 
+![screenshot of wikipedia with this rat font set as default](rationalism.png)
 
 
 
